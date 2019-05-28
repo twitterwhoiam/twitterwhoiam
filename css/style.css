@@ -45,7 +45,7 @@ a{
     background-repeat: no-repeat;
     background-size: cover;
     position: relative;
-    height: 140%;
+    height: 100%;
     overflow: hidden;
 }
 .main-screen:after{
